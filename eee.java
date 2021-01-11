@@ -1,5 +1,5 @@
 
-public class eee{
+public class eee1{
    public static void main(String[] args){   
       System.out.println(" eee ");
   }
